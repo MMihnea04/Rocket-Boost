@@ -1,4 +1,4 @@
-# Rocket-Boost
+# Rocket Boost
 
 Strap into your rocket and test your piloting skills against the pull of **custom moon gravity**. Every level challenges you to carefully manage your **boost** as you navigate obstacles, avoid crashes, and reach the next checkpoint. The further you go, the tougher the journey becomes.
 
